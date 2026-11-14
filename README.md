@@ -7,11 +7,22 @@ maps first, the way a top player would. Its autoplay, the bot, writes the play a
 [BSOR](https://github.com/BeatLeader/BS-Open-Replay) replay, the format BeatLeader records
 players' plays in, which the viewer's own replayer plays beside theirs.
 
+![The viewer playing the bot's replay of a map](screenshots/player.jpg)
+
 Each release on the [Releases](../../releases) page provides:
 
 - **Installer** (`.exe`): installs the app. It is unsigned, so Windows SmartScreen may warn on
   first launch.
 - **Archive** (`.zip`): the app alone, to extract and run without installing.
+
+## Screenshots
+
+![Picture-in-picture views and note style settings](screenshots/player-views.jpg)
+
+<p align="center">
+  <img src="screenshots/explore.jpg" alt="Exploring ranked maps" height="300">
+  <img src="screenshots/start.jpg" alt="Start screen" height="300">
+</p>
 
 ## Usage policy
 
